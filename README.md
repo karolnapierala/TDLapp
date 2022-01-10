@@ -1,0 +1,2 @@
+# TDLapp
+Nauka modelu MVVM
